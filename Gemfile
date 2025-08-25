@@ -1,3 +1,2 @@
  source 'https://rubygems.org' 
-gem 'rails', '~> 7.0.0' 
-gem 'logger'
+gem 'rails', '~> 8.0.0' 
